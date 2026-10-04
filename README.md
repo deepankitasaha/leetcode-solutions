@@ -16,8 +16,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/deepankitasaha/leetcode-solutions/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/deepankitasaha/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0876-middle-of-the-linked-list](https://github.com/deepankitasaha/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/deepankitasaha/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/deepankitasaha/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
