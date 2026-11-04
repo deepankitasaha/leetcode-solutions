@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/deepankitasaha/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0643-maximum-average-subarray-i](https://github.com/deepankitasaha/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0977-squares-of-a-sorted-array](https://github.com/deepankitasaha/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/deepankitasaha/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1672-richest-customer-wealth](https://github.com/deepankitasaha/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 ## Matrix
 |  |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/deepankitasaha/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/deepankitasaha/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/deepankitasaha/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Quicksort
 |  |
 | ------- |
@@ -166,8 +168,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/deepankitasaha/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/deepankitasaha/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/deepankitasaha/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/deepankitasaha/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/deepankitasaha/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/deepankitasaha/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
